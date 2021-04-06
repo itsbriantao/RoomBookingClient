@@ -1,5 +1,7 @@
 # RoomBookingClient
 
+This is a personal project, built using Angular 8. It models a room booking client, where users can book rooms for particular days, chair layouts, and number of attendees.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
 ## Development server
